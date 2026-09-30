@@ -4,7 +4,7 @@
 
 **A rendelkezés szövege:**
 
-> Az ügyészség speciális működési kiadása felhasználásának külső szerv által történő ellenőrzése kizárólag törvényességi szempontból történhet. E körben célszerűségi és eredményességi szempont szerinti ellenőrzés nem végezhető.
+> (1) Az ügyészség speciális működési kiadása felhasználásának külső szerv által történő ellenőrzése kizárólag törvényességi szempontból történhet. E körben célszerűségi és eredményességi szempont szerinti ellenőrzés nem végezhető.
 >
 > (2) Az ügyészség gazdálkodásának külső szerv által történő ellenőrzése során az ellenőrzést végző szerv birtokába nem kerülhet olyan adat, amely a titkos információgyűjtés során keletkezett információra, annak forrására, illetve az alkalmazott titkos információgyűjtő módszer konkrét jellegére utal.
 >
@@ -22,7 +22,7 @@ A rendelkezés a titkos információgyűjtéssel és a leplezett eszközök alka
 
 **A rendelkezés szövege:**
 
-> Az ügyészségnek e törvényben nem szabályozott, az igazságszolgáltatás közreműködőjeként gyakorolt büntetőjogon kívüli közérdekű feladat- és hatásköreiről külön törvények rendelkeznek. Az ügyész ezeket a hatásköreit a törvénysértés kiküszöbölése érdekében elsősorban bírósági peres és nemperes eljárások megindításával (perindítási jog), valamint hatósági eljárások kezdeményezésével és jogorvoslat előterjesztésével gyakorolja (a továbbiakban együtt: fellépés).
+> (1) Az ügyészségnek e törvényben nem szabályozott, az igazságszolgáltatás közreműködőjeként gyakorolt büntetőjogon kívüli közérdekű feladat- és hatásköreiről külön törvények rendelkeznek. Az ügyész ezeket a hatásköreit a törvénysértés kiküszöbölése érdekében elsősorban bírósági peres és nemperes eljárások megindításával (perindítási jog), valamint hatósági eljárások kezdeményezésével és jogorvoslat előterjesztésével gyakorolja (a továbbiakban együtt: fellépés).
 >
 > (2) Az ügyész – törvény eltérő rendelkezésének hiányában – intézkedésének megalapozása érdekében hivatalból vizsgálatot folytat, ha a tudomására jutott adat vagy más körülmény megalapozottan súlyos törvénysértésre, mulasztásra vagy törvénysértő állapotra (a továbbiakban együtt: törvénysértés) utal.
 >
@@ -48,7 +48,7 @@ A (3)–(4) bekezdés vezeti be a felhívás intézményét, amely a fellépést
 
 **A rendelkezés szövege:**
 
-> Az ügyész
+> (1) Az ügyész
 >
 > a) a perben felperesként vagy az ellene indított perben alperesként vesz részt,
 >
@@ -94,7 +94,7 @@ Az (5) bekezdés – nem taxatív jelleggel („különösen”) – felsorolja 
 
 **A rendelkezés szövege:**
 
-> Az ügyészt törvényben meghatározott jogi személyek, jogi személyiséggel nem rendelkező más szervezetek (a továbbiakban együtt: jogi személy) közhiteles nyilvántartásba vételét (bejegyzését), törlését elrendelő, valamint a nyilvántartásba bejegyzett adatok változásával kapcsolatban hozott bírósági határozattal (hatósági döntéssel) szemben jogorvoslati vagy perindítási jog illeti meg. Ha a közhiteles nyilvántartás adata törvénysértő, vagy utóbb törvénysértővé vált, az ügyész – törvényben meghatározott feltételek alapján – az adat törlését, kijavítását, megváltoztatását kezdeményezheti.
+> (1) Az ügyészt törvényben meghatározott jogi személyek, jogi személyiséggel nem rendelkező más szervezetek (a továbbiakban együtt: jogi személy) közhiteles nyilvántartásba vételét (bejegyzését), törlését elrendelő, valamint a nyilvántartásba bejegyzett adatok változásával kapcsolatban hozott bírósági határozattal (hatósági döntéssel) szemben jogorvoslati vagy perindítási jog illeti meg. Ha a közhiteles nyilvántartás adata törvénysértő, vagy utóbb törvénysértővé vált, az ügyész – törvényben meghatározott feltételek alapján – az adat törlését, kijavítását, megváltoztatását kezdeményezheti.
 >
 > (2) Ha törvény alapján az ügyész jogi személy működésének törvényességét ellenőrizheti, a jogi személy nyilvántartásba vételéről (bejegyzéséről), illetve nyilvántartási adataiban elrendelt változásról rendelkező bírósági határozatot (hatósági döntést) az ügyésszel közölni kell.
 >
@@ -116,7 +116,7 @@ A (4)–(5) bekezdés a jogi személy elleni perindítás legsúlyosabb esetét,
 
 **A rendelkezés szövege:**
 
-> ⁽⁴⁴⁾ Az ügyész ellenőrzi a közigazgatási hatóságok, valamint – a bíróságok és a választottbíróságok kivételével – a jogvitát elbíráló szervek által hozott egyedi, bíróság által felül nem bírált jogerős, végleges vagy végrehajtható döntések, valamint hatósági intézkedések törvényességét.
+> (1)⁽⁴⁴⁾ Az ügyész ellenőrzi a közigazgatási hatóságok, valamint – a bíróságok és a választottbíróságok kivételével – a jogvitát elbíráló szervek által hozott egyedi, bíróság által felül nem bírált jogerős, végleges vagy végrehajtható döntések, valamint hatósági intézkedések törvényességét.
 >
 > (2)⁽⁴⁵⁾ Ha törvény másképp nem rendelkezik, az ügyész a közigazgatási hatósági döntés érdemére kiható törvénysértés esetén a jogerőre emelkedéstől, véglegessé válástól vagy a végrehajtás elrendelésétől számított legfeljebb egy éven belül, kötelezettséget megállapító, jogot elvonó vagy korlátozó döntés esetén a végrehajtáshoz való jog elévüléséig, követelés biztosítását vagy dolog zárlatát elrendelő döntéssel szemben mindaddig, amíg ez az állapot fennáll, felhívással él a törvénysértés megszüntetése érdekében.
 >
@@ -150,7 +150,7 @@ A (6) bekezdés felhatalmazást ad arra, hogy törvény az ügyész előzetes j�
 
 **A rendelkezés szövege:**
 
-> ⁽⁴⁸⁾ Ha a szabálysértési hatóság bűncselekményt bírált el szabálysértésként, az ügyész a határozat ellen a döntés közlésétől számított egy éven belül élhet felhívással.
+> (1)⁽⁴⁸⁾ Ha a szabálysértési hatóság bűncselekményt bírált el szabálysértésként, az ügyész a határozat ellen a döntés közlésétől számított egy éven belül élhet felhívással.
 >
 > (2) A jogerős döntés ellen az elkövető javára az elkövetett szabálysértésről a nyilvántartásban kezelt adatok törlési határidejéig van helye felhívásnak.
 >
@@ -178,7 +178,7 @@ Az (5) bekezdés eljárási transzparenciát biztosít azáltal, hogy a szabály
 
 **A rendelkezés szövege:**
 
-> Az ügyész hivatali elektronikus aláírása a Legfőbb Ügyészség által rendszeresített elektronikus aláírás. Az ügyész a hatáskörébe tartozó ügyben elkészített, a kiadmányozási jogkörébe tartozó elektronikus okiratot elektronikus aláírásával látja el.
+> (1) Az ügyész hivatali elektronikus aláírása a Legfőbb Ügyészség által rendszeresített elektronikus aláírás. Az ügyész a hatáskörébe tartozó ügyben elkészített, a kiadmányozási jogkörébe tartozó elektronikus okiratot elektronikus aláírásával látja el.
 >
 > (2) Az ügyészség által szabályozott vagy központi elektronikus ügyintézési szolgáltatás során kiállított, minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással ellátott irat közokirat.
 
@@ -194,7 +194,7 @@ A szakasz nyitja meg az elektronikus ügyintézésről szóló IV/A. Fejezetet, 
 
 **A rendelkezés szövege:**
 
-> ⁽⁵¹⁾ Az ügyészség törvényben szabályozott büntetőjogi, közérdekvédelmi, valamint ügyviteli, statisztikai és tudományos kutatási célú feladatainak ellátásához – az ügyészi szervezetben kijelölt központi, területi és helyi adatkezelő szervein keresztül, legfőbb ügyészi utasításban felsorolt adatkörben – személyes, különleges és bűnügyi személyes adatokat kezelhet.
+> (1)⁽⁵¹⁾ Az ügyészség törvényben szabályozott büntetőjogi, közérdekvédelmi, valamint ügyviteli, statisztikai és tudományos kutatási célú feladatainak ellátásához – az ügyészi szervezetben kijelölt központi, területi és helyi adatkezelő szervein keresztül, legfőbb ügyészi utasításban felsorolt adatkörben – személyes, különleges és bűnügyi személyes adatokat kezelhet.
 >
 > (2) Az ügyészségi adatot kezelő szerv vezetője informatikus ügyészségi alkalmazott közreműködésével gondoskodik a személyes adatok körében a jogosulatlan hozzáférés, közlés, megváltoztatás vagy törlés megelőzéséről, illetve a törlés szabályozását biztosító technikai és logikai védelemről.
 >
@@ -214,7 +214,7 @@ A szakasz nyitja meg az ügyészségi adatkezelésről szóló V. Fejezetet, és
 
 **A rendelkezés szövege:**
 
-> ⁽⁵²⁾ Az ügyészség tevékenysége során a rendőrségtől és más hatóságoktól az általuk kezelt személyes, különleges és bűnügyi személyes adatokat a felhasználás céljának megjelölésével átveheti és – a törvény korlátai között – kezelheti. Az adatátvétel tényét mind az adatátadó, mind az adatátvevő szervnél dokumentálni kell. Az ügyészség által történő adatátvételért, illetve az adat felhasználását érintő utasítások jogszerűségéért az átvevő ügyészségi szerv vezetője, az utasítástól eltérő átvételért és felhasználásért az átvevő, illetve felhasználó ügyészségi alkalmazott felel, a visszaélés személyes adattal bűncselekményének megvalósulása esetén a büntetőjogi felelősség a bűncselekményt elkövetett ügyészségi alkalmazottat terheli.
+> (1)⁽⁵²⁾ Az ügyészség tevékenysége során a rendőrségtől és más hatóságoktól az általuk kezelt személyes, különleges és bűnügyi személyes adatokat a felhasználás céljának megjelölésével átveheti és – a törvény korlátai között – kezelheti. Az adatátvétel tényét mind az adatátadó, mind az adatátvevő szervnél dokumentálni kell. Az ügyészség által történő adatátvételért, illetve az adat felhasználását érintő utasítások jogszerűségéért az átvevő ügyészségi szerv vezetője, az utasítástól eltérő átvételért és felhasználásért az átvevő, illetve felhasználó ügyészségi alkalmazott felel, a visszaélés személyes adattal bűncselekményének megvalósulása esetén a büntetőjogi felelősség a bűncselekményt elkövetett ügyészségi alkalmazottat terheli.
 >
 > (2) Az ügyviteli, igazgatási és szolgálati jellegű adatok a legfőbb ügyész engedélye nélkül nem továbbíthatók és nyilvánosságra nem hozhatók. Ezen adatkörbe tartoznak különösen azok az iratok, melyekhez joghatás nem fűződik (belső feljegyzések, elemzések, jelentések, tervezetek, az ügyészi szervezeten belül kiadott egyedi utasítások).
 >
@@ -308,7 +308,7 @@ A szakasz alapvető szervezési elvet mond ki: az ügyészség büntetőjogi tev
 
 **A rendelkezés szövege:**
 
-> ⁽⁶¹⁾ Az ügyészség a közérdekvédelmi tevékenysége során átveheti és kezelheti, a bíróság részére átadhatja a büntetőjogi tevékenysége során keletkezett személyes, különleges és bűnügyi személyes adatot, amely a külön törvény felhatalmazása alapján az ügyész által közérdekből indítható polgári peres és a nemperes eljárásokban az eljárás megindításához vagy az eljárás szempontjából jelentős tények megállapításához szükséges.
+> (1)⁽⁶¹⁾ Az ügyészség a közérdekvédelmi tevékenysége során átveheti és kezelheti, a bíróság részére átadhatja a büntetőjogi tevékenysége során keletkezett személyes, különleges és bűnügyi személyes adatot, amely a külön törvény felhatalmazása alapján az ügyész által közérdekből indítható polgári peres és a nemperes eljárásokban az eljárás megindításához vagy az eljárás szempontjából jelentős tények megállapításához szükséges.
 >
 > (2)⁽⁶²⁾ Az ügyészség a büntetőjogi tevékenysége során átveheti és kezelheti az ügyészség közérdekvédelmi tevékenysége során kezelt személyes, különleges és bűnügyi személyes adatot, amely a büntető, büntetőeljárási és büntetés-végrehajtási jogszabályok alkalmazása szempontjából jelentős tények megállapításához szükséges.
 >
@@ -332,7 +332,7 @@ A (3) bekezdés – a 2017. évi CXCVII. és a 2020. évi XCII. törvénnyel mó
 
 **A rendelkezés szövege:**
 
-> Az ügyészség által kezelt adatok statisztikai célokra csak egyedi azonosításra nem alkalmas formában használhatók fel.
+> (1) Az ügyészség által kezelt adatok statisztikai célokra csak egyedi azonosításra nem alkalmas formában használhatók fel.
 >
 > (2) Statisztikai adatok – a rendőrség és a nemzetbiztonsági szolgálatok kivételével – csak az (1) bekezdésben meghatározott módon adhatók át külső szervek számára.
 >
@@ -348,7 +348,7 @@ A szakasz a statisztikai és tudományos kutatási célú adatfelhasználás gar
 
 **A rendelkezés szövege:**
 
-> ⁽⁶⁴⁾ Az ügyész, alügyész, ügyészségi fogalmazó és ügyészségi megbízott – törvényben szabályozott feladatainak ellátásához – az ügyészi szervezetben, illetve más szervek körében kezelt, személyes, különleges és bűnügyi személyes adatokat törvényben szabályozott megszorításokkal kezelhet.
+> (1)⁽⁶⁴⁾ Az ügyész, alügyész, ügyészségi fogalmazó és ügyészségi megbízott – törvényben szabályozott feladatainak ellátásához – az ügyészi szervezetben, illetve más szervek körében kezelt, személyes, különleges és bűnügyi személyes adatokat törvényben szabályozott megszorításokkal kezelhet.
 >
 > (2) Az ügyész, alügyész, ügyészségi fogalmazó és ügyészségi megbízott a hivatala gyakorlása során a tudomására jutott adatokat köteles a minősített adat védelmére, a magántitokra és a személyes adatok védelmére, továbbá a statisztikára, valamint a közérdekű adatok nyilvánosságára vonatkozó szabályok szerint – az e törvényben meghatározott eltérésekkel – kezelni.
 >
@@ -388,7 +388,7 @@ A szakasz – a 2017. évi CXCVII. törvénnyel módosított szöveg szerint –
 
 **A rendelkezés szövege:**
 
-> A legfőbb ügyész az igazságügyért felelős miniszter megkeresésére a jogalkotás előkészítése, továbbá a jogszabályok hatályosulásának vizsgálata céljából személyazonosításra alkalmatlanná tett formában az igazságügyért felelős miniszter rendelkezésére bocsátja a megkeresésben meghatározott tárgykörben a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével vagy az ügyészség vagy a nyomozóhatóság további jogorvoslattal nem támadható eljárást megszüntető határozatával befejezett büntetőeljárásban hozott, további jogorvoslattal nem támadható ügyészségi határozatokat, a vádiratot, valamint mindazon ügyészségi és más hatósági vagy egyéb szerv által hozott határozatot, amelyet a további jogorvoslattal nem támadható ügyészségi határozattal felülbíráltak vagy felülvizsgáltak.
+> (1) A legfőbb ügyész az igazságügyért felelős miniszter megkeresésére a jogalkotás előkészítése, továbbá a jogszabályok hatályosulásának vizsgálata céljából személyazonosításra alkalmatlanná tett formában az igazságügyért felelős miniszter rendelkezésére bocsátja a megkeresésben meghatározott tárgykörben a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével vagy az ügyészség vagy a nyomozóhatóság további jogorvoslattal nem támadható eljárást megszüntető határozatával befejezett büntetőeljárásban hozott, további jogorvoslattal nem támadható ügyészségi határozatokat, a vádiratot, valamint mindazon ügyészségi és más hatósági vagy egyéb szerv által hozott határozatot, amelyet a további jogorvoslattal nem támadható ügyészségi határozattal felülbíráltak vagy felülvizsgáltak.
 >
 > (2) A személyazonosításra alkalmatlanná tételt az eljárással érintett személyek azonosítását lehetővé tevő adatok azonosítást megakadályozó adatokra cserélésével kell elvégezni. A minősített adat védelmét a határozatok rendelkezésre bocsátása során is biztosítani kell.
 >
@@ -432,7 +432,7 @@ A szakasz a törvény más jogszabályokban használandó rövid megjelölését
 
 **A rendelkezés szövege:**
 
-> Ahol jogszabály vagy közjogi szervezetszabályozó eszköz
+> (1) Ahol jogszabály vagy közjogi szervezetszabályozó eszköz
 >
 > a) ügyészségi titkárt említ, alügyészt,
 >
@@ -450,7 +450,7 @@ A szakasz a törvény hatálybalépésével összefüggő terminológiai átmene
 
 **A rendelkezés szövege:**
 
-> A törvény hatályba lépésének napján az el nem bírált óvást, felszólalást, figyelmeztetést visszavontnak kell tekinteni. A törvény hatályba lépésétől számított öt napon belül a címzett ezeket az intézkedéseket az iratokkal együtt visszaküldi az intézkedést benyújtó ügyészségnek.
+> (1) A törvény hatályba lépésének napján az el nem bírált óvást, felszólalást, figyelmeztetést visszavontnak kell tekinteni. A törvény hatályba lépésétől számított öt napon belül a címzett ezeket az intézkedéseket az iratokkal együtt visszaküldi az intézkedést benyújtó ügyészségnek.
 >
 > (2) Ha az óvással érintett döntés végrehajtását felfüggesztették, a szerv, szervezet az iratok visszaküldésével egyidejűleg intézkedik a végrehajtás folytatásáról.
 >
@@ -476,7 +476,7 @@ A szakaszt a 2016. évi CXXI. törvény iktatta be, tartalmát azonban a 2024. �
 
 **A rendelkezés szövege:**
 
-> E törvénynek a titkos információgyűjtésre vonatkozó 2018. június 30-ig hatályban volt rendelkezéseit a folyamatban lévő titkos információgyűjtésekre 2019. január 1-ig alkalmazni kell.
+> (1) E törvénynek a titkos információgyűjtésre vonatkozó 2018. június 30-ig hatályban volt rendelkezéseit a folyamatban lévő titkos információgyűjtésekre 2019. január 1-ig alkalmazni kell.
 >
 > (2) A titkos információgyűjtés szabályainak az új büntetőeljárási törvénnyel összefüggő, továbbá a bírósági végrehajtás során a sértettnek megítélt polgári jogi követelések kielégítési sorrendjére vonatkozó rendelkezések módosításáról szóló 2017. évi XCIII. törvény hatálybalépésekor⁽⁷⁰⁾ folyamatban lévő, az e törvény 2018. június 30-ig hatályban volt rendelkezései alapján végzett titkos információgyűjtés esetén a titkos információgyűjtést folytató ügyészség 2019. január 1-ig döntést hoz arról, hogy a büntetőeljárásról szóló törvény szerinti előkészítő eljárást kezdeményez-e vagy feljelentést tesz-e.
 

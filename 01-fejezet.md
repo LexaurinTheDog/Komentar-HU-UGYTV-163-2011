@@ -6,7 +6,7 @@
 
 **A rendelkezés szövege:**
 
-> ⁽²⁾ Az ügyészség az igazságszolgáltatás közreműködőjeként a büntetőeljárásról szóló törvényben meghatározott feltételek szerint érvényesíti az állam büntetőigényét, felügyeli és végzi az előkészítő eljárást, irányítja, felügyeli, illetve végzi a nyomozást, képviseli a közvádat a bírósági eljárásban, valamint felügyeletet gyakorol a büntetés-végrehajtás törvényessége felett.
+> (1)⁽²⁾ Az ügyészség az igazságszolgáltatás közreműködőjeként a büntetőeljárásról szóló törvényben meghatározott feltételek szerint érvényesíti az állam büntetőigényét, felügyeli és végzi az előkészítő eljárást, irányítja, felügyeli, illetve végzi a nyomozást, képviseli a közvádat a bírósági eljárásban, valamint felügyeletet gyakorol a büntetés-végrehajtás törvényessége felett.
 >
 > (2) Az ügyészség a közérdek védelme érdekében közreműködik annak biztosításában, hogy mindenki betartsa a törvényeket. A jogszabályok megsértése esetén – törvényben meghatározott esetekben és módon – fellép a törvényesség érdekében. Ha törvény másként nem rendelkezik, fellépésre akkor köteles, ha a törvénysértés megszüntetésére hivatott szerv az Alaptörvényben, valamint törvényben és más jogszabályban vagy közjogi szervezetszabályozó eszközben meghatározott kötelezettsége ellenére a szükséges intézkedést nem teszi meg, vagy ha a törvénysértésből eredő jogsérelem elhárítása érdekében azonnali ügyészi intézkedésre van szükség.
 
@@ -21,7 +21,7 @@ A törvény nyitó rendelkezése az ügyészség két nagy funkciócsoportját h
 
 **A rendelkezés szövege:**
 
-> ⁽³⁾ Az 1. § szerinti feladatok teljesítése érdekében az ügyészség
+> (1)⁽³⁾ Az 1. § szerinti feladatok teljesítése érdekében az ügyészség
 >
 > a) a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárást folytat, illetve felügyeli más szerv előkészítő eljárásának törvényességét,
 >
@@ -62,7 +62,7 @@ E szakasz az 1. §-ban meghatározott büntetőjogi alapfeladatot bontja le konk
 
 **A rendelkezés szövege:**
 
-> Az ügyészség független, csak a törvényeknek alárendelt önálló alkotmányos szervezet.
+> (1) Az ügyészség független, csak a törvényeknek alárendelt önálló alkotmányos szervezet.
 >
 > (2) Az ügyészség az Alaptörvényben és a törvényekben meghatározott feladatait a döntésért felelős ügyészségi alkalmazott személyének megállapítását biztosító, alá-fölérendeltségen alapuló szervezeti rendben végzi.
 >
@@ -87,7 +87,7 @@ A szakasz az ügyészség alkotmányos önállóságát és belső szervezeti re
 
 **A rendelkezés szövege:**
 
-> Mindenki köteles biztosítani, hogy az ügyészek a részükre jogszabályban megállapított jogokat akadálytalanul gyakorolhassák.
+> (1) Mindenki köteles biztosítani, hogy az ügyészek a részükre jogszabályban megállapított jogokat akadálytalanul gyakorolhassák.
 >
 > (2) Ha törvény az ügyésznek utasítási jogkört biztosít, az utasított szervek az utasításnak kötelesek eleget tenni.
 >
@@ -108,7 +108,7 @@ E szakasz az ügyészi jogosítványok érvényesülésének biztosítékait, il
 
 **A rendelkezés szövege:**
 
-> ⁽⁶⁾ Az ügyész a tudomására jutott jogsértés vagy jogszabálysértő mulasztás miatt jogszabályban megállapított feltételek fennállása esetén büntető, fegyelmi, szabálysértési, illetve hatósági eljárást, büntetés-végrehajtási ügyekben kártérítési, illetve személyiségi jogsértés miatt járó sérelemdíj megfizetése iránti eljárást is kezdeményez. A kezdeményezés címzettje érdemi döntését köteles az ügyésznek haladéktalanul megküldeni.
+> (1)⁽⁶⁾ Az ügyész a tudomására jutott jogsértés vagy jogszabálysértő mulasztás miatt jogszabályban megállapított feltételek fennállása esetén büntető, fegyelmi, szabálysértési, illetve hatósági eljárást, büntetés-végrehajtási ügyekben kártérítési, illetve személyiségi jogsértés miatt járó sérelemdíj megfizetése iránti eljárást is kezdeményez. A kezdeményezés címzettje érdemi döntését köteles az ügyésznek haladéktalanul megküldeni.
 >
 > (2) Az ügyész elbírálja a hatósági határozat, intézkedés, jogszabálysértő mulasztás ellen hozzá intézett kérelmeket, közérdekű bejelentéseket, jogsértésre utaló jelzéseket (a továbbiakban együtt: kérelem). Amennyiben a hozzá intézett kérelem vizsgálatára nincs hatásköre, gondoskodik annak áttételéről a hatáskörrel rendelkező szervhez.
 >
@@ -129,7 +129,7 @@ A szakasz az ügyészi kezdeményezési jogkört és a hozzá kapcsolódó kére
 
 **A rendelkezés szövege:**
 
-> Az ügyészség a központi költségvetésről szóló törvényben önálló költségvetési fejezetet alkot.
+> (1) Az ügyészség a központi költségvetésről szóló törvényben önálló költségvetési fejezetet alkot.
 >
 > (2) A legfőbb ügyész összeállítja az ügyészség költségvetésére vonatkozó javaslatát és az annak végrehajtására vonatkozó beszámolóját, amelyet a Kormány a központi költségvetésről szóló törvényjavaslat és az annak végrehajtására vonatkozó törvényjavaslat részeként változtatás nélkül terjeszt az Országgyűlés elé.
 
@@ -141,7 +141,7 @@ A szakasz az ügyészség költségvetési önállóságát rögzíti, amely a 3
 
 **A rendelkezés szövege:**
 
-> Az ügyészek és más ügyészségi alkalmazottak munkájuk során és magatartásukban az Alaptörvényt és a jogszabályokat kötelesek megtartani.
+> (1) Az ügyészek és más ügyészségi alkalmazottak munkájuk során és magatartásukban az Alaptörvényt és a jogszabályokat kötelesek megtartani.
 >
 > (2) Az ügyészek a törvényekben előírtaknak megfelelően, következetesen és méltányosan járnak el, ügyészi kötelezettségeiket legjobb szaktudásuk szerint teljesítik. E körben az ügyész
 >
@@ -178,7 +178,7 @@ A szakasz az ügyészek és más ügyészségi alkalmazottak hivatásetikai és 
 
 **A rendelkezés szövege:**
 
-> Magyarország ügyészi szervei:
+> (1) Magyarország ügyészi szervei:
 >
 > a) a Legfőbb Ügyészség,
 >
@@ -205,7 +205,7 @@ A szakasz nyitja meg a II. fejezetet, és állapítja meg az ügyészi szervezet
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁰⁾ A Legfőbb Ügyészség központi költségvetési szerv; jogi személy.
+> (1)⁽¹⁰⁾ A Legfőbb Ügyészség központi költségvetési szerv; jogi személy.
 >
 > (2)⁽¹¹⁾ A Legfőbb Ügyészséget a legfőbb ügyész, a fellebbviteli főügyészséget fellebbviteli főügyész, a főügyészséget főügyész, a járási és a járási szintű (a továbbiakban együtt: járási) ügyészséget vezető ügyész vezeti.
 >
@@ -224,7 +224,7 @@ A szakasz a Legfőbb Ügyészség jogállását és az ügyészi szervek vezető
 
 **A rendelkezés szövege:**
 
-> Az ügyészség tudományos és kutató intézménye az Országos Kriminológiai Intézet, amely a bűnözés kutatása, a kriminológia, a kriminalisztika és a büntető-jogtudományok elméletének és gyakorlatának fejlesztése céljából működik.
+> (1) Az ügyészség tudományos és kutató intézménye az Országos Kriminológiai Intézet, amely a bűnözés kutatása, a kriminológia, a kriminalisztika és a büntető-jogtudományok elméletének és gyakorlatának fejlesztése céljából működik.
 >
 > (2) Az Országos Kriminológiai Intézetre vonatkozó szabályokat legfőbb ügyészi utasítás határozza meg⁽¹²⁾.
 
@@ -239,7 +239,7 @@ A szakasz az ügyészség tudományos hátterét biztosító intézményt, az Or
 
 **A rendelkezés szövege:**
 
-> Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja.
+> (1) Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja.
 >
 > (2) A legfőbb ügyész
 >
@@ -282,7 +282,7 @@ A szakasz a legfőbb ügyész vezetői, illetve az ügyészi szervezeten túlmut
 
 **A rendelkezés szövege:**
 
-> Az ügyészek a legfőbb ügyésznek alárendelten működnek, számukra utasítást csak a legfőbb ügyész és a felettes ügyész adhat.
+> (1) Az ügyészek a legfőbb ügyésznek alárendelten működnek, számukra utasítást csak a legfőbb ügyész és a felettes ügyész adhat.
 >
 > (2) Az ügyészi szervek közül
 >
@@ -321,7 +321,7 @@ A szakasz az ügyészi szervezeten belüli irányítási és felettesi viszonyok
 
 **A rendelkezés szövege:**
 
-> A felettes ügyész az alárendelt ügyészeket utasíthatja, tőlük bármely ügy elintézését saját hatáskörébe vonhatja, illetve az ügy elintézésére más – alárendelt – ügyészt jelölhet ki.
+> (1) A felettes ügyész az alárendelt ügyészeket utasíthatja, tőlük bármely ügy elintézését saját hatáskörébe vonhatja, illetve az ügy elintézésére más – alárendelt – ügyészt jelölhet ki.
 >
 > (2) Ha a Legfőbb Ügyészségnek a 12. § (4) bekezdésének a) pontjában megjelölt ügyésze a járási ügyészt utasítja vagy attól valamely ügy elintézését elvonja, erről a felettes főügyészt (főügyészséget) egyidejűleg tájékoztatja.
 >
@@ -335,7 +335,7 @@ A szakasz a felettes ügyész konkrét eljárási jogosítványait és az utasí
 
 **A rendelkezés szövege:**
 
-> Az ügyészi szerv vezetője
+> (1) Az ügyészi szerv vezetője
 >
 > a) a költségvetési keretek között gondoskodik az ügyészség működéséhez szükséges személyi és tárgyi feltételekről;
 >
@@ -367,7 +367,7 @@ A szakasz az ügyészi szerv vezetőjének igazgatási-működtetési feladatait
 
 **A rendelkezés szövege:**
 
-> Az ügyészi feladatokat az ügyészek mellett – nem teljes ügyészi jogkört gyakorló – alügyészek, ügyészségi fogalmazók és ügyészségi megbízottak is végzik, munkájukat más ügyészségi alkalmazottak (tisztviselők, írnokok és fizikai alkalmazottak) segítik.
+> (1) Az ügyészi feladatokat az ügyészek mellett – nem teljes ügyészi jogkört gyakorló – alügyészek, ügyészségi fogalmazók és ügyészségi megbízottak is végzik, munkájukat más ügyészségi alkalmazottak (tisztviselők, írnokok és fizikai alkalmazottak) segítik.
 >
 > (2) Az ügyészi jogkörben eljáró alügyészt és ügyészségi fogalmazót az eljárási cselekménye tekintetében – a 21. § (3) bekezdésében meghatározott körben – az ügyész kötelezettségei terhelik, és az ügyésszel azonos jogok illetik meg.
 >
@@ -386,7 +386,7 @@ A szakasz az ügyészi feladatokat ténylegesen ellátó, de nem teljes ügyész
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁹⁾ Az ügyészség köteles biztosítani
+> (1)⁽¹⁹⁾ Az ügyészség köteles biztosítani
 >
 > a) minden, a hivatali tevékenysége során tudomására jutott bűncselekmény következetes üldözését; továbbá
 >
@@ -409,7 +409,7 @@ A szakasz nyitja meg a III. fejezetet, és az ügyészség büntetőjogi tevéke
 
 **A rendelkezés szövege:**
 
-> Az ügyészség a bűncselekmény gyanújának megállapítása érdekében a büntetőeljárásról szóló törvényben meghatározott esetekben előkészítő eljárást folytat, illetve felügyeli más szerv előkészítő eljárásának törvényességét.
+> (1) Az ügyészség a bűncselekmény gyanújának megállapítása érdekében a büntetőeljárásról szóló törvényben meghatározott esetekben előkészítő eljárást folytat, illetve felügyeli más szerv előkészítő eljárásának törvényességét.
 >
 > (2) Az ügyészség a vádemelés feltételeinek megállapítása érdekében a büntetőeljárásról szóló törvényben meghatározott
 >
@@ -455,7 +455,7 @@ A szakasz hatályát vesztette, szövege nem hatályos.
 
 **A rendelkezés szövege:**
 
-> ⁽²⁴⁾ Közvádlóként az ügyészség dönt a vádemelésről, vagy az eljárás más, a büntetőeljárásról szóló törvényben meghatározott módon történő befejezéséről.
+> (1)⁽²⁴⁾ Közvádlóként az ügyészség dönt a vádemelésről, vagy az eljárás más, a büntetőeljárásról szóló törvényben meghatározott módon történő befejezéséről.
 >
 > (2) A vádnak törvényesen beszerzett bizonyítékokon kell alapulnia.
 >
@@ -489,7 +489,7 @@ A szakasz az ügyészségi felülvizsgálati jogkört rögzíti a büntetőeljá
 
 **A rendelkezés szövege:**
 
-> ⁽²⁸⁾ Az ügyészség az igazságszolgáltatás közreműködőjeként érvényesíti az állam büntetőigényét a bíróság előtt, egyúttal közreműködik abban, hogy a bíróságok határozatai megfeleljenek az Alaptörvénynek és a törvényeknek.
+> (1)⁽²⁸⁾ Az ügyészség az igazságszolgáltatás közreműködőjeként érvényesíti az állam büntetőigényét a bíróság előtt, egyúttal közreműködik abban, hogy a bíróságok határozatai megfeleljenek az Alaptörvénynek és a törvényeknek.
 >
 > (2)⁽²⁹⁾ E feladat megvalósítása érdekében az ügyészség
 >
@@ -520,7 +520,7 @@ A szakasz nyitja meg a III. fejezet 2. alcímét, és az ügyészség bíróság
 
 **A rendelkezés szövege:**
 
-> ⁽³²⁾ Az ügyész a 22–24. § szerinti felügyeleti tevékenysége során bármely időpontban és helyen ellenőrizheti a törvényben meghatározott joghátrány és jogkorlátozás végrehajtásának, a fogvatartottakkal való bánásmódnak a törvényességét, a végrehajtás alatt állók jogvédelmére, valamint az utógondozásra vonatkozó rendelkezések érvényesülését. E rendelkezés megfelelő alkalmazásával jár el különösen a bűnügyi nyilvántartási rendszer, a bűnügyi és rendészeti biometrikus adatok nyilvántartása, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartása, a szabálysértési nyilvántartási rendszer, továbbá a körözési nyilvántartási rendszer, valamint a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisának vonatkozásában is.
+> (1)⁽³²⁾ Az ügyész a 22–24. § szerinti felügyeleti tevékenysége során bármely időpontban és helyen ellenőrizheti a törvényben meghatározott joghátrány és jogkorlátozás végrehajtásának, a fogvatartottakkal való bánásmódnak a törvényességét, a végrehajtás alatt állók jogvédelmére, valamint az utógondozásra vonatkozó rendelkezések érvényesülését. E rendelkezés megfelelő alkalmazásával jár el különösen a bűnügyi nyilvántartási rendszer, a bűnügyi és rendészeti biometrikus adatok nyilvántartása, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartása, a szabálysértési nyilvántartási rendszer, továbbá a körözési nyilvántartási rendszer, valamint a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisának vonatkozásában is.
 >
 > (2)⁽³³⁾ Az (1) bekezdés szerinti ellenőrzéssel érintett – személyi szabadságot érintő, illetve más jogot korlátozó joghátrányokat végrehajtó – szerv vezetője köteles az ügyésznek a törvények megtartására és a fogvatartás körülményeire vonatkozó rendelkezését teljesíteni. E szerv vezetője az ügyészi rendelkezésben foglalt utasítás ellen felettes szerve útján – 15 napon belül – előterjesztést tehet a felettes ügyészhez, amelynek nincs halasztó hatálya.
 >
@@ -547,7 +547,7 @@ A szakasz nyitja meg a III. fejezet 3. alcímét, és az ügyészség joghátrá
 
 **A rendelkezés szövege:**
 
-> Az ügyész a büntetés-végrehajtáshoz kapcsolódó bírósági eljárásban részt vehet, indítványt tehet, illetve jogorvoslattal élhet.
+> (1) Az ügyész a büntetés-végrehajtáshoz kapcsolódó bírósági eljárásban részt vehet, indítványt tehet, illetve jogorvoslattal élhet.
 >
 > (2) Ha az ügyész a bíróság büntetés-végrehajtási igazgatási tevékenységével összefüggésben intézkedésre okot adó körülményt észlel, a jogszabályi rendelkezés érvényesülésének biztosítása érdekében az illetékes bíróság elnökének intézkedését kezdeményezi.
 
@@ -559,7 +559,7 @@ A szakasz az ügyész büntetés-végrehajtáshoz kapcsolódó bírósági eljá
 
 **A rendelkezés szövege:**
 
-> Felügyeleti jogkörében az ügyész
+> (1) Felügyeleti jogkörében az ügyész
 >
 > a) meghallgathatja a fogvatartottakat, illetve megvizsgálhatja a büntető ügyben hozott határozatok végrehajtásával kapcsolatos panaszokat,
 >
@@ -590,7 +590,7 @@ A szakasz a 22. § szerinti felügyeleti jogkör gyakorlásának konkrét eszkö
 
 **A rendelkezés szövege:**
 
-> Amennyiben a nemzetközi bűnügyi együttműködésről szóló törvények másként nem rendelkeznek, a legfőbb ügyész dönt
+> (1) Amennyiben a nemzetközi bűnügyi együttműködésről szóló törvények másként nem rendelkeznek, a legfőbb ügyész dönt
 >
 > a) a büntetőeljárás külföldi hatóság részére történő átadásáról vagy a külföldi hatóságnál történő feljelentésről;
 >
@@ -612,7 +612,7 @@ A szakasz nyitja meg a III. fejezet 4. alcímét, és a legfőbb ügyész nemzet
 
 **A rendelkezés szövege:**
 
-> Az e törvény alapján végzett titkos információgyűjtés olyan, a magánlakás sérthetetlenségéhez, valamint a magántitok, a levéltitok és a személyes adatok védelméhez fűződő alapvető jogok korlátozásával járó, az ügyészség által végzett különleges tevékenység, amelyet az ügyészség az érintett tudta nélkül végez.
+> (1) Az e törvény alapján végzett titkos információgyűjtés olyan, a magánlakás sérthetetlenségéhez, valamint a magántitok, a levéltitok és a személyes adatok védelméhez fűződő alapvető jogok korlátozásával járó, az ügyészség által végzett különleges tevékenység, amelyet az ügyészség az érintett tudta nélkül végez.
 >
 > (2) Az ügyészség a titkos információgyűjtés során az e törvényben meghatározott
 >
@@ -651,7 +651,7 @@ A szakasz a titkos információgyűjtés két lehetséges célját határozza me
 
 **A rendelkezés szövege:**
 
-> A bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat elhelyezése, valamint eltávolítása érdekében akkor folytatható titkos információgyűjtés, ha a technikai eszköz vagy elektronikus adat leplezett elhelyezéséhez vagy eltávolításához elengedhetetlenül szükséges.
+> (1) A bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat elhelyezése, valamint eltávolítása érdekében akkor folytatható titkos információgyűjtés, ha a technikai eszköz vagy elektronikus adat leplezett elhelyezéséhez vagy eltávolításához elengedhetetlenül szükséges.
 >
 > (2) Az ügyészséggel titkosan együttműködő személy védelme, bevonása, ellenőrzése érdekében akkor folytatható titkos információgyűjtés, ha az attól várt információk
 >
@@ -698,7 +698,7 @@ A szakasz nyitja meg a 4/B. alcímet, és felsorolja a bírói engedélyhez nem 
 
 **A rendelkezés szövege:**
 
-> A 25/D. §-ban és a 25/F. §-ban foglaltak teljesítése érdekében az ügyészség természetes személlyel, jogi személlyel vagy jogi személyiséggel nem rendelkező szervezettel titkos együttműködési megállapodást köthet.
+> (1) A 25/D. §-ban és a 25/F. §-ban foglaltak teljesítése érdekében az ügyészség természetes személlyel, jogi személlyel vagy jogi személyiséggel nem rendelkező szervezettel titkos együttműködési megállapodást köthet.
 >
 > (2) Az ügyészség a vele titkosan együttműködők tevékenységéért indokolt mértékű anyagi ellenszolgáltatást nyújthat.
 >
@@ -716,7 +716,7 @@ A szakasz a titkosan együttműködő személyekkel fennálló jogviszony egyes 
 
 **A rendelkezés szövege:**
 
-> Az ügyészség a 25/B. §-ban meghatározott célból, valamint a leplezett eszközök alkalmazása során a saját személyi állománya, a vele titkosan együttműködő személy védelme céljából, illetve az ügyészi jelleg leplezése érdekében valótlan adatot, tényt vagy nyilatkozatot tartalmazó okiratot vagy közokiratot (a továbbiakban: fedőokirat) készíthet vagy használhat fel.
+> (1) Az ügyészség a 25/B. §-ban meghatározott célból, valamint a leplezett eszközök alkalmazása során a saját személyi állománya, a vele titkosan együttműködő személy védelme céljából, illetve az ügyészi jelleg leplezése érdekében valótlan adatot, tényt vagy nyilatkozatot tartalmazó okiratot vagy közokiratot (a továbbiakban: fedőokirat) készíthet vagy használhat fel.
 >
 > (2) Az ügyészség a titkos információgyűjtés, valamint a leplezett eszközök alkalmazása során a saját személyi állománya, a vele titkosan együttműködő személy védelme céljából, illetve az ügyészi jelleg leplezése érdekében, valamint a fedőokirat védelme érdekében a közhiteles nyilvántartásokba valótlan adatot (a továbbiakban: fedőadat) jegyeztethet be.
 >
@@ -732,7 +732,7 @@ A szakasz a fedőokirat és a fedőadat jogintézményét szabályozza, amelyek 
 
 **A rendelkezés szövege:**
 
-> Bírói engedélyhez kötött eszköz akkor alkalmazható, ha
+> (1) Bírói engedélyhez kötött eszköz akkor alkalmazható, ha
 >
 > a) megalapozottan feltehető, hogy a megszerezni kívánt információ a 25/B. § a) pontjában meghatározott cél eléréséhez elengedhetetlenül szükséges és más módon nem szerezhető meg,
 >
@@ -782,7 +782,7 @@ A szakasz a 25/G. § (2) bekezdésében felsorolt öt bírói engedélyhez köt�
 
 **A rendelkezés szövege:**
 
-> A bírói engedélyhez kötött eszközök a bíróság engedélye alapján, az abban meghatározott keretek között alkalmazhatók.
+> (1) A bírói engedélyhez kötött eszközök a bíróság engedélye alapján, az abban meghatározott keretek között alkalmazhatók.
 >
 > (2) A bírói engedélyhez kötött eszközök alkalmazásával kapcsolatban a bíróság feladatait a titkos információgyűjtést folytató ügyészség székhelye szerint illetékes járásbíróságnak a törvényszék elnöke által kijelölt bírája látja el.
 
@@ -794,7 +794,7 @@ A szakasz nyitja meg a 4/D. alcímet, és a bírói engedélyezési eljárás al
 
 **A rendelkezés szövege:**
 
-> A bírói engedélyhez kötött eszköz alkalmazása iránti kérelmet a titkos információgyűjtést folytató ügyészség vezetője terjeszti elő.
+> (1) A bírói engedélyhez kötött eszköz alkalmazása iránti kérelmet a titkos információgyűjtést folytató ügyészség vezetője terjeszti elő.
 >
 > (2) A kérelemnek tartalmaznia kell
 >
@@ -834,7 +834,7 @@ A szakasz a bírói engedély iránti kérelem előterjesztésére jogosultat é
 
 **A rendelkezés szövege:**
 
-> A bíróság a kérelem benyújtásától számított hetvenkét órán belül indokolt végzéssel határoz. A bíróság a kérelem alapján az engedélyt megadja vagy a kérelmet a törvényi feltételek hiánya miatt elutasítja.
+> (1) A bíróság a kérelem benyújtásától számított hetvenkét órán belül indokolt végzéssel határoz. A bíróság a kérelem alapján az engedélyt megadja vagy a kérelmet a törvényi feltételek hiánya miatt elutasítja.
 >
 > (2) Ha a bíróság a bírói engedélyhez kötött eszköz alkalmazását engedélyezi, az erről szóló végzésben meg kell jelölni
 >
@@ -856,7 +856,7 @@ A szakasz a bírói döntéshozatal határidejét és az engedélyező végzés 
 
 **A rendelkezés szövege:**
 
-> Ha a bírói engedélyhez kötött eszköz alkalmazásának engedélyezése olyan késedelemmel járna, amely a titkos információgyűjtéssel elérni kívánt célt nyilvánvalóan veszélyeztetné, a titkos információgyűjtést folytató ügyészség vezetője elrendelheti a titkos kutatást, illetve a bíróság döntéséig, de legfeljebb hetvenkét órára más bírói engedélyhez kötött eszköz alkalmazását.
+> (1) Ha a bírói engedélyhez kötött eszköz alkalmazásának engedélyezése olyan késedelemmel járna, amely a titkos információgyűjtéssel elérni kívánt célt nyilvánvalóan veszélyeztetné, a titkos információgyűjtést folytató ügyészség vezetője elrendelheti a titkos kutatást, illetve a bíróság döntéséig, de legfeljebb hetvenkét órára más bírói engedélyhez kötött eszköz alkalmazását.
 >
 > (2) A bírói engedélyhez kötött eszköz (1) bekezdés alapján elrendelt alkalmazásának esetén a titkos információgyűjtést folytató ügyészség vezetője az elrendeléssel egyidejűleg előterjeszti a kérelmet a bíróságnak az utólagos engedélyezés érdekében.
 >
@@ -890,7 +890,7 @@ A szakasz a technikai eszköz vagy adat elhelyezéséhez, illetve eltávolítás
 
 **A rendelkezés szövege:**
 
-> A bíróság az alkalmazás során vizsgálhatja a bírói engedélyhez kötött eszközök alkalmazásának törvényességét. A bíróság felhívására a titkos információgyűjtést folytató ügyészség köteles a bírói engedélyhez kötött eszköz alkalmazása során megszerzett, a felhívás időpontjáig rendelkezésére álló adatokat nyolc napon belül bemutatni.
+> (1) A bíróság az alkalmazás során vizsgálhatja a bírói engedélyhez kötött eszközök alkalmazásának törvényességét. A bíróság felhívására a titkos információgyűjtést folytató ügyészség köteles a bírói engedélyhez kötött eszköz alkalmazása során megszerzett, a felhívás időpontjáig rendelkezésére álló adatokat nyolc napon belül bemutatni.
 >
 > (2) A bíróság a bírói engedélyhez kötött eszköz alkalmazásának engedélyét visszavonja, ha
 >
@@ -910,7 +910,7 @@ A szakasz a bíróság folyamatos, az engedélyezést követő kontrolljogköré
 
 **A rendelkezés szövege:**
 
-> A titkos információgyűjtést folytató ügyészség vezetője haladéktalanul megszünteti a bírói engedélyhez kötött, illetve a bírói engedélyhez nem kötött eszköz alkalmazását, ha
+> (1) A titkos információgyűjtést folytató ügyészség vezetője haladéktalanul megszünteti a bírói engedélyhez kötött, illetve a bírói engedélyhez nem kötött eszköz alkalmazását, ha
 >
 > a) a célját elérte, vagy
 >
@@ -950,7 +950,7 @@ A szakasz a bírói engedélyhez kötött eszköz alkalmazásához igénybe vett
 
 **A rendelkezés szövege:**
 
-> A titkos információgyűjtést folytató ügyészség a titkos információgyűjtést maga hajtja végre, a titkos információgyűjtés végrehajtásában való közreműködésre kijelölt rendőri szerv közreműködésével hajtja végre, vagy a végrehajtáshoz a nemzetbiztonsági szolgálatokról szóló törvény által ilyen szolgáltatások végzésére kijelölt nemzetbiztonsági szolgálatot veszi igénybe.
+> (1) A titkos információgyűjtést folytató ügyészség a titkos információgyűjtést maga hajtja végre, a titkos információgyűjtés végrehajtásában való közreműködésre kijelölt rendőri szerv közreműködésével hajtja végre, vagy a végrehajtáshoz a nemzetbiztonsági szolgálatokról szóló törvény által ilyen szolgáltatások végzésére kijelölt nemzetbiztonsági szolgálatot veszi igénybe.
 >
 > (2) Ha a titkos információgyűjtés a nemzetbiztonsági szolgálatok vagy a rendőrség terrorizmust elhárító szervének működését érinti, felkérésre az érintett nemzetbiztonsági szolgálat, illetve a rendőrség terrorizmust elhárító szerve közreműködik a titkos információgyűjtés végrehajtásában.
 >
@@ -966,7 +966,7 @@ A szakasz nyitja meg a 4/F. alcímet, és a titkos információgyűjtés végreh
 
 **A rendelkezés szövege:**
 
-> A titkos információgyűjtés elrendelése, engedélyezése, végrehajtása és az annak eredményeként keletkezett adatok felhasználása során gondoskodni kell arról, hogy az intézkedések és az adatok illetéktelen személy számára ne váljanak hozzáférhetővé vagy megismerhetővé.
+> (1) A titkos információgyűjtés elrendelése, engedélyezése, végrehajtása és az annak eredményeként keletkezett adatok felhasználása során gondoskodni kell arról, hogy az intézkedések és az adatok illetéktelen személy számára ne váljanak hozzáférhetővé vagy megismerhetővé.
 >
 > (2) Az (1) bekezdésben meghatározott követelmény érvényesítése érdekében a titkos információgyűjtés folytatásával összefüggő adatok – ha annak feltételei fennállnak – a minősített adat védelméről szóló törvényben meghatározott szabályok szerint minősítéssel védhetők.
 >
@@ -1015,7 +1015,7 @@ A szakasz nyitja meg a 4/G. alcímet, és a titkos információgyűjtés során 
 
 **A rendelkezés szövege:**
 
-> A bírói engedélyhez kötött eszközök alkalmazása során beszerzett, a titkos információgyűjtés alapjául szolgáló eljárásban nyilvánvalóan nem érintett személyre vonatkozó adatot haladéktalanul törölni kell, az a továbbiakban nem használható fel.
+> (1) A bírói engedélyhez kötött eszközök alkalmazása során beszerzett, a titkos információgyűjtés alapjául szolgáló eljárásban nyilvánvalóan nem érintett személyre vonatkozó adatot haladéktalanul törölni kell, az a továbbiakban nem használható fel.
 >
 > (2) A bírói engedélyhez kötött eszköz alkalmazásának befejezését követő nyolc napon belül törölni kell a bírói engedélyhez kötött eszköz alkalmazásának célja szempontjából érdektelen adatot vagy az ügyben nem érintett személy adatait.
 >
@@ -1033,7 +1033,7 @@ A szakasz a titkos információgyűjtés során beszerzett, az ügy szempontjáb
 
 **A rendelkezés szövege:**
 
-> Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató ügyészség vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül kezdeményezi a büntetőeljárás megindítását.
+> (1) Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató ügyészség vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül kezdeményezi a büntetőeljárás megindítását.
 >
 > (1a)⁽⁴²⁾ Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 817/A. § (1) bekezdése szerinti, közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató szerv vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál kezdeményezi a büntetőeljárás megindítását.
 >
@@ -1056,7 +1056,7 @@ A szakasz nyitja meg a 4/H. alcímet, és a titkos információgyűjtés eredmé
 
 **A rendelkezés szövege:**
 
-> Az ügyészség a költségvetésében az alaptevékenységgel összefüggő speciális működési kiadásainak fedezésére elkülönített előirányzatot szerepeltethet. A speciális működési kiadásokat összevontan – az általános számviteli szabályoktól eltérően – egy összegben kell szerepeltetni.
+> (1) Az ügyészség a költségvetésében az alaptevékenységgel összefüggő speciális működési kiadásainak fedezésére elkülönített előirányzatot szerepeltethet. A speciális működési kiadásokat összevontan – az általános számviteli szabályoktól eltérően – egy összegben kell szerepeltetni.
 >
 > (2) Speciális működési kiadásnak minősülnek
 >
